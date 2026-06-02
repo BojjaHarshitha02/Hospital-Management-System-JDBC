@@ -29,7 +29,3 @@ Releases
 No releases published
 Packages
 No packages published
-Contributors
-1
-@yashwanth-kiran89
-yashwanth-kiran89
